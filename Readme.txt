@@ -1,1 +1,1 @@
-This is a Basic Jenkins Demo.
+This is a Basic Jenkins Demo for Task 6.2C.
